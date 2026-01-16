@@ -3,7 +3,7 @@
 #include "factorial.h"
 
 int main() {
-    int x = 10, y = 12;
+    int x = 11, y = 12;
     int num = 5;
 
     printf("Biggest of %d and %d is %d\n", x, y, biggest(x, y));
